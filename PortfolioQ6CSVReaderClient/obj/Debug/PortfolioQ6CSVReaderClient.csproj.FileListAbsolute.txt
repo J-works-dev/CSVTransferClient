@@ -1,0 +1,10 @@
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\bin\Debug\PortfolioQ6CSVReaderClient.exe.config
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\bin\Debug\PortfolioQ6CSVReaderClient.exe
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\bin\Debug\PortfolioQ6CSVReaderClient.pdb
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.Form1.resources
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.exe
+C:\Users\Jeremy\source\repos\PortfolioQ6CSVReaderClient\PortfolioQ6CSVReaderClient\obj\Debug\PortfolioQ6CSVReaderClient.pdb
